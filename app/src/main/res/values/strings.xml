@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrtegaChristianLab4</string>
+    <string name="title"><u>Quiapo Church</u></string>
+    <string name="distance">Quezon Blvd, Plaza Miranda Quiapo, Manila</string>
+    <string name="location">2.4 km from University of Santo Tomas</string>
+    <string name="btn1">Back</string>
+    <string name="btn2">Next</string>
+</resources>
